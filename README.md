@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->              
-- 💻 Software Engineering & Cibersecurity Techinician
+- 💻 Software Engineering & Cibersecurity Technician
 - ✨ A passionate Self-taught
 - 🌱 I’m currently learning web3
 - 🚀 Ambition to grow and face challenges with enthusiasm
